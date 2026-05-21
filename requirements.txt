@@ -1,0 +1,15 @@
+google-genai
+psutil
+pyautogui
+pillow
+python-dotenv
+PyQt6
+pygetwindow
+edge-tts
+playsound
+winrt-Windows.Media.Control
+winrt-Windows.Foundation
+SpeechRecognition
+#pyaudio
+fuzzywuzzy
+python-Levenshtein
